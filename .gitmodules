@@ -1,0 +1,3 @@
+[submodule "public/gilga-app"]
+	path = public/gilga-app
+	url = https://github.com/tlaifer/gilga-app.git
